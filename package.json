@@ -1,0 +1,25 @@
+{
+  "name": "@rizwan/atm-ts",
+  "version": "1.0.1",
+  "description": "This is a Simple CLI Based ATM Machine with typescript.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "atm-ts": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rizwan Ahmed Soomro",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
