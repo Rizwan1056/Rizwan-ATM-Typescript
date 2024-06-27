@@ -1,6 +1,6 @@
 {
-  "name": "@rizwan/atm-ts",
-  "version": "1.0.1",
+  "name": "@rizwan_ahmed/atm-ts",
+  "version": "2.1.1",
   "description": "This is a Simple CLI Based ATM Machine with typescript.",
   "main": "index.js",
   "type": "module",
